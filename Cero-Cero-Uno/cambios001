@@ -1,0 +1,7 @@
+Cambios:
+
+En vista.VentanaPrincipal se agrego lo faltante, despues de la linea 195 «panel_oeste.add(panel_oeste_salir);»  
+
+En vista.Principal se completo.
+
+En vista.VentanaEmpleado se inicio y se llegó hasta el renglo numero 98 del documento original.
